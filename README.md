@@ -26,3 +26,5 @@ Using tableau I created 7 different visualizations using the total number of tri
 	•	To see all of my visualizations please click the link below: 
        https://public.tableau.com/profile/ali.ahrabi#!/
 
+Summery :
+	•	CitiBike Analysis tells that there are way more Subscribers, then regular non-Subscribers, that data creates a new need, such better user experience interaction in the future.
